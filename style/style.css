@@ -130,3 +130,47 @@ line-height: auto;
     margin-top: 30px;
     font-size: 16px;
 }
+.image-text{
+    display: flex;
+    padding: 48px;
+    gap: 24px;
+    align-items: center;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 24px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+img {
+    border-radius: 30px;
+    margin-left: 40px;
+    margin-right: 60px;
+    margin-top: 30px;
+    padding: 20px;
+  }
+  .image-heading{
+    font-family: "fira sans";
+    font-size: 32px;
+    color: #0E0E0E;
+    margin-left: 60px;
+    margin-right: 60px;
+  }
+  .image-description{
+    font-family: "fira sans";
+    font-size: 16px;
+    margin-left: 60px;
+    margin-right: 60px;
+    line-height: 24px;
+  }
+  .img-btn{
+    font-family: "fira sans";
+    font-size: 16px;
+    margin-left: 60px;
+    margin-right: 60px;
+    line-height: 24px;
+    padding: 18px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: #006A50;
+    color: white;
+  }
+
