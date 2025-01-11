@@ -1,0 +1,132 @@
+
+
+.open-sans-normal {
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+  .hero-banner{
+    padding: 100px;
+    display: flex;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 50px;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .banner-greetings{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+  }
+  .banner-paragraph{
+    font-family: "fira sans";
+    font-size: 24px;
+    gap: 10;
+    font-style: normal;
+font-weight: medium;
+line-height: auto;
+  }
+  .banner-heading{
+    font-family: "fira sans";
+    font-size: 56px;
+  }
+  .button{
+    border-radius: 8px;
+    padding: 25px;
+    background-color: #006A50;
+    font-family: "fira sans";
+    font-size: 18px;
+    border-style: none;
+    color: #FFFFFF;
+  }
+  .heading{
+    font-family: "fira sans";
+    font-size: 40px;
+    margin-left: 80px;
+    margin-top: 80px;
+  }
+  .card-box{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+  }
+  .card-1{
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 24px 24px;
+  }
+  .pillars-title{
+    font-family: "fira sans";
+    font-size: 20px;
+  }
+.pillar-description{
+    font-family: "fira sans";
+    font-size: 16px;
+    line-height: 24px;
+}
+.sub-heading{
+    font-family: "fira sans";
+    font-size: 40px;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+.description{
+    font-family: "fira sans";
+    font-size: 16px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 30px;
+    line-height: 24px;
+}
+.card-box-1{
+    background-color: #bbd1f5;
+    gap: 20px;
+    padding: 35px;
+    border-radius: 16px;
+}
+.btn-1{
+    background-color: #5490F5;
+    padding: 20px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    border-style: none;
+    margin-top: 30px;
+    font-size: 16px;
+}
+.card-box-2{
+    background-color: #c6e4d6;
+    padding: 35px;
+    border-radius: 16px;
+}
+.btn-2{
+    background-color: #09A15C;
+    padding: 20px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    border-style: none;
+    margin-top: 30px;
+    font-size: 16px;
+}
+.card-box-3{
+    background-color: #f7ebcf;
+    padding: 35px;
+    border-radius: 16px;
+}
+.btn-3{
+    background-color: #FFC239;
+    padding: 20px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    border-style: none;
+    margin-top: 30px;
+    font-size: 16px;
+}
