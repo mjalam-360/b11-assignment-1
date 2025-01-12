@@ -222,9 +222,7 @@ img {
     margin-top: 10px;
     margin-bottom: 20px;
     border-collapse: collapse ;
-    table-layout: fixed;
 }
-
 .amount-table td {
     padding: 10px;
     border: 1px solid #ccc;
@@ -232,7 +230,6 @@ img {
     background-color: #fff;
     
 }
-
 .amount-table input {
     width: calc(100% - 20px);
     padding: 10px;
@@ -240,4 +237,14 @@ img {
     border: none;
     outline: none;
     text-align: center;
+}
+.center{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.center input{
+  font-size: 20px;
+  font-weight: 400px;
+  padding: 40px 450px;
 }
